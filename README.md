@@ -12,9 +12,5 @@ Sou um desenvolvedor front-end em formação que busca atingir sempre o **clean 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ruangmss&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangmss&layout=compact&theme=radical)
-
 ## 📫 Contato
 - [E-mail](mailto:ruan.gmss@outlook.com)
