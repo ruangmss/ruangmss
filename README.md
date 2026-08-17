@@ -60,12 +60,3 @@ Busco evoluir principalmente em:
 
 **React • JavaScript • Arquitetura Front-end • Acessibilidade • UI/UX • Design Systems**
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruangmss\&show_icons=true\&hide_border=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangmss\&layout=compact\&hide_border=true\&theme=transparent)
-
-## 📫 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/ruangmss)
