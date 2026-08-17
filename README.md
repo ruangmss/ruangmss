@@ -62,9 +62,9 @@ Busco evoluir principalmente em:
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&hide_border=true\&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruangmss\&show_icons=true\&hide_border=true\&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&hide_border=true\&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangmss\&layout=compact\&hide_border=true\&theme=transparent)
 
 ## 📫 Contato
 
