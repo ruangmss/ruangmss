@@ -54,26 +54,10 @@ Atualmente, meus principais focos de evolução são:
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=ruangmss&show_icons=true&hide_border=true&theme=transparent"
-    alt="Estatísticas do GitHub de Ruan Gomes"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruangmss&layout=compact&hide_border=true&theme=transparent"
-    alt="Linguagens mais utilizadas por Ruan Gomes"
-  />
-</div>
-
----
-
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-ruangmss-181717?style=for-the-badge\&logo=github)](https://github.com/ruangmss)
+[![GitHub](https://img.shields.io/badge/GitHub-ruangmss-181717?style=for-the-badge&logo=github)](https://github.com/ruangmss)
+[![Email](https://img.shields.io/badge/Email-ruan.gmss%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ruan.gmss@outlook.com)
 
 ---
 
