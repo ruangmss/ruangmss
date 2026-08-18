@@ -56,9 +56,8 @@ Atualmente, meus principais focos de evolução são:
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-ruangmss-181717?style=for-the-badge&logo=github)](https://github.com/ruangmss)
-[![Email](https://img.shields.io/badge/Email-ruan.gmss%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ruan.gmss@outlook.com)
-
+[![GitHub](https://img.shields.io/badge/GitHub-ruangmss-181717?style=for-the-badge&logo=github)](https://github.com/ruangmss)  
+[![E-mail](https://img.shields.io/badge/Email-ruan.gmss%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ruan.gmss@outlook.com)
 ---
 
 <p align="center">
