@@ -4,7 +4,7 @@
 
 Sou estudante de **Sistemas para Internet na UNIVALI** e atuo como **estagiário de desenvolvimento na Secretaria Municipal de Tecnologia de Itajaí (SETEC)**.
 
-Meu foco é **desenvolvimento front-end**, buscando criar interfaces bem estruturadas, responsivas, acessíveis e com uma boa experiência de usuário. Atualmente, estou aprofundando meus conhecimentos em **React, JavaScript e UI/UX**.
+Meu foco é **desenvolvimento front-end**, buscando criar interfaces bem estruturadas, responsivas, acessíveis e com uma boa experiência de usuário. Atualmente, estou aprofundando meus conhecimentos em **React, JavaScript, Tailwind CSS e UI/UX**.
 
 ---
 
@@ -12,17 +12,18 @@ Meu foco é **desenvolvimento front-end**, buscando criar interfaces bem estrutu
 
 ### Front-end
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -37,7 +38,7 @@ Atualmente, venho trabalhando e estudando conceitos como:
 * Consumo e integração de **APIs REST**
 * JavaScript moderno (**ES6+**)
 * HTML semântico e acessibilidade
-* Layouts responsivos com **Flexbox e Grid**
+* Layouts responsivos com **Flexbox, Grid e Tailwind CSS**
 * Organização e manutenção de código front-end
 * Fundamentos de **UI/UX e Design de Interfaces**
 * Versionamento com **Git e GitHub**
@@ -50,7 +51,7 @@ Busco me especializar em **desenvolvimento front-end**, combinando engenharia e 
 
 Atualmente, meus principais focos de evolução são:
 
-`React` • `JavaScript` • `Arquitetura Front-end` • `Acessibilidade` • `UI/UX` • `Design Systems`
+`React` • `JavaScript` • `Tailwind CSS` • `Arquitetura Front-end` • `Acessibilidade` • `UI/UX` • `Design Systems`
 
 ---
 
@@ -58,6 +59,7 @@ Atualmente, meus principais focos de evolução são:
 
 [![GitHub](https://img.shields.io/badge/GitHub-ruangmss-181717?style=for-the-badge&logo=github)](https://github.com/ruangmss)  
 [![E-mail](https://img.shields.io/badge/Email-ruan.gmss%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ruan.gmss@outlook.com)
+
 ---
 
 <p align="center">
