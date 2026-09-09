@@ -51,7 +51,7 @@ Busco me especializar em **desenvolvimento front-end**, combinando engenharia e 
 
 Atualmente, meus principais focos de evolução são:
 
-`React` • `JavaScript` • `Tailwind CSS` • `Arquitetura Front-end` • `Acessibilidade` • `UI/UX` • `Design Systems`
+`React` • `JavaScript` • `Tailwind CSS` • `Arquitetura Front-end` • `UI/UX` • `Acessibilidade` • `Design Systems`
 
 ---
 
