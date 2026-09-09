@@ -1,6 +1,6 @@
 # Olá, eu sou o Ruan Gomes! 👋
 
-### Desenvolvedor Front-end | React • JavaScript • UI/UX
+### Desenvolvedor Front-end | React • JavaScript • Tailwind CSS • UI/UX
 
 Sou estudante de **Sistemas para Internet na UNIVALI** e atuo como **estagiário de desenvolvimento na Secretaria Municipal de Tecnologia de Itajaí (SETEC)**.
 
