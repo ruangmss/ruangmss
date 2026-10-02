@@ -1,14 +1,78 @@
 # Olá, eu sou o Ruan Gomes! 👋
 
-### Desenvolvedor Front-end | React • JavaScript • Tailwind CSS • UI/UX
+```jsx
+import {
+  React,
+  JavaScript,
+  TailwindCSS,
+  UIUX,
+} from './skills';
 
-Sou estudante de **Sistemas para Internet na UNIVALI** e atuo como **estagiário de desenvolvimento na Secretaria Municipal de Tecnologia de Itajaí (SETEC)**.
+import { UNIVALI, SETEC } from './experience';
 
-Meu foco é **desenvolvimento front-end**, buscando criar interfaces bem estruturadas, responsivas, acessíveis e com uma boa experiência de usuário. Atualmente, estou aprofundando meus conhecimentos em **React, JavaScript, Tailwind CSS e UI/UX**.
+const RuanGomes = () => {
+  const role = 'Desenvolvedor Front-end';
 
----
+  const technologies = {
+    frontend: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS'],
+    tools: ['Git', 'GitHub', 'Vite', 'VS Code'],
+  };
 
-## 🛠️ Tecnologias
+  const currentlyLearning = [
+    'React',
+    'JavaScript',
+    'Tailwind CSS',
+    'Arquitetura Front-end',
+    'UI/UX',
+    'Acessibilidade',
+    'Design Systems',
+  ];
+
+  return (
+    <Developer
+      name="Ruan Gomes"
+      role={role}
+      university={UNIVALI}
+      workplace={SETEC}
+      technologies={technologies}
+      learning={currentlyLearning}
+    />
+  );
+};
+
+export default RuanGomes;
+```
+
+### `about.jsx`
+
+```jsx
+const About = () => {
+  return (
+    <section>
+      <h2>Sobre mim</h2>
+
+      <p>
+        Sou estudante de Sistemas para Internet na UNIVALI e atuo como
+        estagiário de desenvolvimento na Secretaria Municipal de Tecnologia
+        de Itajaí (SETEC).
+      </p>
+
+      <p>
+        Meu foco é desenvolvimento front-end, buscando criar interfaces
+        bem estruturadas, responsivas, acessíveis e com uma boa experiência
+        de usuário.
+      </p>
+
+      <p>
+        Atualmente, estou aprofundando meus conhecimentos em React,
+        JavaScript, Tailwind CSS e UI/UX.
+      </p>
+    </section>
+  );
+};
+```
+
+## 🛠️ `technologies.js`
 
 ### Front-end
 
@@ -25,42 +89,77 @@ Meu foco é **desenvolvimento front-end**, buscando criar interfaces bem estrutu
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+## 💻 `development.jsx`
 
-## 💻 Sobre meu desenvolvimento
+```jsx
+const Development = () => {
+  const knowledge = [
+    'Componentização e reutilização de interfaces com React',
+    'Gerenciamento de estado com Hooks e Context API',
+    'Criação de Custom Hooks',
+    'Navegação com React Router',
+    'Consumo e integração de APIs REST',
+    'JavaScript moderno (ES6+)',
+    'HTML semântico e acessibilidade',
+    'Layouts responsivos com Flexbox, Grid e Tailwind CSS',
+    'Organização e manutenção de código front-end',
+    'Fundamentos de UI/UX e Design de Interfaces',
+    'Versionamento com Git e GitHub',
+  ];
 
-Atualmente, venho trabalhando e estudando conceitos como:
+  return (
+    <section>
+      <h2>Sobre meu desenvolvimento</h2>
 
-* Componentização e reutilização de interfaces com **React**
-* Gerenciamento de estado com **Hooks e Context API**
-* Criação de **Custom Hooks**
-* Navegação com **React Router**
-* Consumo e integração de **APIs REST**
-* JavaScript moderno (**ES6+**)
-* HTML semântico e acessibilidade
-* Layouts responsivos com **Flexbox, Grid e Tailwind CSS**
-* Organização e manutenção de código front-end
-* Fundamentos de **UI/UX e Design de Interfaces**
-* Versionamento com **Git e GitHub**
+      {knowledge.map((skill) => (
+        <Skill key={skill}>{skill}</Skill>
+      ))}
+    </section>
+  );
+};
+```
 
----
+## 🎯 `goals.js`
 
-## 🎯 Objetivos
+```js
+export const goal = {
+  area: 'Desenvolvimento Front-end',
 
-Busco me especializar em **desenvolvimento front-end**, combinando engenharia e design para construir interfaces funcionais, intuitivas e visualmente bem elaboradas.
+  mission:
+    'Combinar engenharia e design para construir interfaces funcionais, intuitivas e visualmente bem elaboradas.',
 
-Atualmente, meus principais focos de evolução são:
+  focus: [
+    'React',
+    'JavaScript',
+    'Tailwind CSS',
+    'Arquitetura Front-end',
+    'UI/UX',
+    'Acessibilidade',
+    'Design Systems',
+  ],
+};
+```
 
-`React` • `JavaScript` • `Tailwind CSS` • `Arquitetura Front-end` • `UI/UX` • `Acessibilidade` • `Design Systems`
+## 📫 `contact.js`
 
----
+```js
+export const contact = {
+  github: 'github.com/ruangmss',
+  email: 'ruan.gmss@outlook.com',
+};
+```
 
-## 📫 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-ruangmss-181717?style=for-the-badge&logo=github)](https://github.com/ruangmss)  
+[![GitHub](https://img.shields.io/badge/GitHub-ruangmss-181717?style=for-the-badge&logo=github)](https://github.com/ruangmss)
 [![E-mail](https://img.shields.io/badge/Email-ruan.gmss%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ruan.gmss@outlook.com)
 
----
+```jsx
+while (true) {
+  learn();
+  build();
+  improve();
+  commit();
+}
+```
 
 <p align="center">
   <i>Em constante evolução, um commit de cada vez.</i>
